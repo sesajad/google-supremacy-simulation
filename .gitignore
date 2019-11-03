@@ -240,3 +240,10 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
+
+## editor stuff
+*.tex~
+*.bib~
+
+# and of course
+papers/
